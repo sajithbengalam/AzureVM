@@ -1,3 +1,4 @@
+# my change 1
 # AzureVM <img src="man/figures/logo.png" align="right" width=150 />
 
 [![CRAN](https://www.r-pkg.org/badges/version/AzureVM)](https://cran.r-project.org/package=AzureVM)
